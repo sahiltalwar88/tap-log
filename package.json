@@ -1,0 +1,20 @@
+{
+  "name": "tap-log",
+  "version": "1.0.0",
+  "description": "Log the given prefix and value, then return value. Useful for debugging functional pipelines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tap",
+    "log",
+    "functional",
+    "ramda",
+    "fkit",
+    "lodash",
+    "underscore"
+  ],
+  "author": "Sahil Talwar",
+  "license": "UNLICENSED"
+}
