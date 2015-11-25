@@ -1,6 +1,6 @@
 {
   "name": "tap-log",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Log the given prefix and value, then return value. Useful for debugging functional pipelines.",
   "main": "index.js",
   "scripts": {
