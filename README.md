@@ -2,6 +2,7 @@
 Log the given prefix and value, then return value. Useful for debugging functional pipelines.
 
 #Example Usage:
+```
 const R = require("ramda")
 
 R.pipe(
@@ -9,5 +10,5 @@ R.pipe(
     tapLogger('test'),
     R.multiply(3)
 )(3)
-
 // -> outputs "test: 5" to console & evaluates to 15
+```
